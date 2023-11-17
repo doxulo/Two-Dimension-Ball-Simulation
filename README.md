@@ -73,7 +73,7 @@ In the 2D Ball Simulation, when two balls collide, we consider the collision to 
 
 #### Elastic Collision Formulas
 
-The velocity components of each ball after an elastic collision are computed based on their masses and initial velocities. The formulas for the final velocities (\(v_{1x}^\prime\), \(v_{1y}^\prime\), \(v_{2x}^\prime\), \(v_{2y}^\prime\)) in the x and y directions are as follows:
+The velocity components of each ball after an elastic collision are computed based on their masses and initial velocities. The formulas for the final velocities $$(\(v_{1x}^\prime\), \(v_{1y}^\prime\), \(v_{2x}^\prime\), \(v_{2y}^\prime\))$$ in the x and y directions are as follows:
 
 For ball 1:
 
