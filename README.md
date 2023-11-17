@@ -70,29 +70,29 @@ The velocity components of each ball after an elastic collision are computed bas
 
 For ball 1:
 
-\[
+$$\[
 v_{1x}^\prime = rac{(v_{1x}(m_1 - m_2) + 2m_2v_{2x})}{m_1 + m_2}
-\]
+\]$$
 
-\[
+$$\[
 v_{1y}^\prime = rac{(v_{1y}(m_1 - m_2) + 2m_2v_{2y})}{m_1 + m_2}
-\]
+\]$$
 
 For ball 2:
 
-\[
+$$\[
 v_{2x}^\prime = rac{(v_{2x}(m_2 - m_1) + 2m_1v_{1x})}{m_1 + m_2}
-\]
+\]$$
 
-\[
+$$\[
 v_{2y}^\prime = rac{(v_{2y}(m_2 - m_1) + 2m_1v_{1y})}{m_1 + m_2}
-\]
+\]$$
 
 Where:
-- \( v_{1x}^\prime \), \( v_{1y}^\prime \) are the new x and y velocities of ball 1 after the collision.
-- \( v_{2x}^\prime \), \( v_{2y}^\prime \) are the new x and y velocities of ball 2 after the collision.
-- \( m_1 \) and \( m_2 \) are the masses of ball 1 and ball 2, respectively.
-- \( v_{1x} \), \( v_{1y} \), \( v_{2x} \), and \( v_{2y} \) are the original velocities of ball 1 and ball 2 in the x and y directions, respectively.
+- $$\( v_{1x}^\prime \), \( v_{1y}^\prime \)$$ are the new x and y velocities of ball 1 after the collision.
+- $$\( v_{2x}^\prime \), \( v_{2y}^\prime \)$$ are the new x and y velocities of ball 2 after the collision.
+- $$\( m_1 \) and \( m_2 \)$$ are the masses of ball 1 and ball 2, respectively.
+- $$\( v_{1x} \), \( v_{1y} \), \( v_{2x} \), and \( v_{2y} \)$$ are the original velocities of ball 1 and ball 2 in the x and y directions, respectively.
 
 ### Implementation in Java
 
