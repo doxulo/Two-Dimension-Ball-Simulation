@@ -23,7 +23,7 @@ This project is a simple 2D ball simulation written in Java. It demonstrates bas
 
 1. **Clone the Repository:**
    ```bash
-   git clone [URL of the repository]
+   git clone https://github.com/doxulo/Two-Dimension-Ball-Simulation
    ```
 
 2. **Navigate to the Project Directory:**
